@@ -1,3 +1,3 @@
 # Time-Series-Forcasting
 
-![MSFT Forcast][output.png]
+![MSFT Forecast](/output.png)
